@@ -1,0 +1,2 @@
+# CSI2120_Lab6
+Lab 6 for CSI2120
